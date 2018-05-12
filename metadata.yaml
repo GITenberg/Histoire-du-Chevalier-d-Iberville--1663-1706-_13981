@@ -1,0 +1,28 @@
+_repo: Histoire-du-Chevalier-d-Iberville--1663-1706-_13981
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Desmazures, Adam Charles Gustave
+    birthdate: 1818
+    deathdate: 1891
+    gutenberg_agent_id: '5311'
+    url: http://www.gutenberg.org/2009/agents/5311
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13981'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Le Moyne d''Iberville, Pierre, 1661-1706'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcc 'F1001'
+title: Histoire du Chevalier d'Iberville (1663-1706)
+url: http://www.gutenberg.org/ebooks/13981
